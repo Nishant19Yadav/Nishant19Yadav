@@ -1,5 +1,31 @@
-# 💫 About Me:
-🔭 I’m currently working on my PROJECT<br>🤝 I’m looking for help with my knowledge<br>🌱 I’m currently learning react.js and node.js<br>💬 Ask me about MY skills<br>⚡ Fun fact
+# 💫 About Me
+
+Hi, I'm Nishant 👋  
+A passionate learner and developer who loves solving problems and building cool projects.
+
+- 🔭 Currently working on my **Live GPS** project to sharpen my skills  
+- 🌱 Learning **React.js** and **Node.js** to grow as a full‑stack developer  
+- 🤝 Open to collaborating and sharing knowledge with the community  
+- 💬 Ask me about **Java, Node.js, Express, MongoDB, and DBMS concepts**  
+- ⚡ Fun fact: I believe debugging is just detective work in a digital world 🕵️‍♂️  
+
+---
+
+## 🚀 Tech Stack
+- **Languages:** Java, JavaScript, Python 
+- **Frameworks & Libraries:** React.js, Node.js, Express  
+- **Databases:** MongoDB, SQL  
+- **Other Interests:** Competitive programming (LeetCode), DBMS theory  
+
+---
+
+## 📈 Current Goals
+- Improve problem‑solving skills for competitive programming  
+- Build full‑stack applications with React + Node.js  
+- Contribute to open‑source projects 
+
+
+
 
 
 ## 🌐 Socials:
